@@ -1,0 +1,39 @@
+a{
+    text-decoration: none !important;
+}
+.navbar{
+    background: #81a832;
+}
+.fa-github{
+    font-size: 40px;
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    background-color:#aab4a3;
+}
+.box1{
+    height: 500px;
+    width: 100%;
+    border-radius: 20px;
+    background-color:#353535;
+}
+.box2{
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #353535;
+}
+.box3{
+    background-color:#353535;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .text{
+        display: none !important;
+    }
+}
