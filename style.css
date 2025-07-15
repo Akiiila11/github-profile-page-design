@@ -30,6 +30,9 @@ a{
     width: 150px;
     border-radius: 10px;
 }
+.footer{
+background-color: #81a832;
+}
 
 
 @media only screen and (max-width: 768px) {
