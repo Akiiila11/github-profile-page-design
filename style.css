@@ -33,7 +33,9 @@ a{
 }
 .footer{
 background-color: #81a832;
+height: 100px;
 }
+
 
 
 @media only screen and (max-width: 768px) {
